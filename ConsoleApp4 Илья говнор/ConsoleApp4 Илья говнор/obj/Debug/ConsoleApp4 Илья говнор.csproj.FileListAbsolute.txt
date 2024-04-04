@@ -1,0 +1,8 @@
+D:\ИС-22\ConsoleApp4 Илья говнор\ConsoleApp4 Илья говнор\bin\Debug\ConsoleApp4 Илья говнор.exe.config
+D:\ИС-22\ConsoleApp4 Илья говнор\ConsoleApp4 Илья говнор\bin\Debug\ConsoleApp4 Илья говнор.exe
+D:\ИС-22\ConsoleApp4 Илья говнор\ConsoleApp4 Илья говнор\bin\Debug\ConsoleApp4 Илья говнор.pdb
+D:\ИС-22\ConsoleApp4 Илья говнор\ConsoleApp4 Илья говнор\obj\Debug\ConsoleApp4 Илья говнор.csproj.AssemblyReference.cache
+D:\ИС-22\ConsoleApp4 Илья говнор\ConsoleApp4 Илья говнор\obj\Debug\ConsoleApp4 Илья говнор.csproj.SuggestedBindingRedirects.cache
+D:\ИС-22\ConsoleApp4 Илья говнор\ConsoleApp4 Илья говнор\obj\Debug\ConsoleApp4 Илья говнор.csproj.CoreCompileInputs.cache
+D:\ИС-22\ConsoleApp4 Илья говнор\ConsoleApp4 Илья говнор\obj\Debug\ConsoleApp4 Илья говнор.exe
+D:\ИС-22\ConsoleApp4 Илья говнор\ConsoleApp4 Илья говнор\obj\Debug\ConsoleApp4 Илья говнор.pdb
